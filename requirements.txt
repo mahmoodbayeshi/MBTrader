@@ -1,0 +1,10 @@
+mplfinance
+paramiko
+pip-chill
+python-binance
+python-telegram-bot
+pymongo
+git+https://github.com/Binance-docs/Binance_Futures_python.git@master
+scipy
+varname
+backtesting

@@ -1,0 +1,1 @@
+TG_STATICS_GROUP = ''
